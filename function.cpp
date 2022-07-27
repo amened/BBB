@@ -13,4 +13,4 @@ function短视频(修复bug)(){}
 
 function短视频(){}
 function商城100%(){}
-
+function商城1000000%(){}
