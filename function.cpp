@@ -9,3 +9,4 @@ function3(){}
 
 function直播(){}
 function短视频(){}
+function商城50%(){}
